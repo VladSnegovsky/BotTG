@@ -1,5 +1,4 @@
 from aiogram import Bot, Dispatcher, executor, types
-import telebot
 import logging
 
 import config
